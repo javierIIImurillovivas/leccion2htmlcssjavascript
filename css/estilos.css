@@ -1,0 +1,13 @@
+body{
+    width: 200px;
+    margin: 20px 20px 20px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fj{
+    background-color:#eeeeee;
+}
+
+p,label{
+    font-family: Tahoma;
+}
